@@ -1,22 +1,22 @@
 
-2017-11-03 08:56:40
+2017-11-03 09:43:22
 --------------------------------------------------
-Bread Crumbs info dump: >>147433975 → (Cross-thread) → → → http://archive.is/aaWPu
-Thread #0: >>147505376 → (Cross-thread) → → → http://archive.is/8NSuO
-Thread #1: >>147547939 → (Cross-thread) → → → http://archive.is/r2nKH
-Thread #2: >>147591553 → (Cross-thread) → → → http://archive.is/xOGn4
-Thread #3: >>147647514 → (Cross-thread) → → → http://archive.is/tXPM2
-Thread #4: >>147663862 → (Cross-thread) → → → http://archive.is/uHqbw
-Thread #5: >>147675249 → (Cross-thread) → → → http://archive.is/Tn6O0
-Thread #6: >>147688425 → (Cross-thread) → → → http://archive.is/ElDNj
-Thread #7: >>147698233 → (Cross-thread) → → → http://archive.is/gC2AL
-Thread #8: >>147711453 → (Cross-thread) → → → http://archive.is/eYVrm
-Thread #9: >>147713026 → (Cross-thread) → → → http://archive.is/pSalw
-Thread #10: >>147718733 → (Cross-thread) → → → http://archive.is/s3kLW
-Thread #11: >>147723497 → (Cross-thread) → → → http://archive.is/rTBSR
-Thread #12: >>147729217 → (Cross-thread) → → http://archive.is/aGaSD
-Thread #13: >>147733722 → (Cross-thread) → → http://archive.is/Tn8yP
-Thread #14: >>147738057 → (Cross-thread) --> --> http://archive.is/ffUMr
+Bread Crumbs info dump: >>147433975 → → (Cross-thread) → → → http://archive.is/aaWPu
+Thread #0: >>147505376 → → (Cross-thread) → → → http://archive.is/8NSuO
+Thread #1: >>147547939 → → (Cross-thread) → → → http://archive.is/r2nKH
+Thread #2: >>147591553 → → (Cross-thread) → → → http://archive.is/xOGn4
+Thread #3: >>147647514 → → (Cross-thread) → → → http://archive.is/tXPM2
+Thread #4: >>147663862 → → (Cross-thread) → → → http://archive.is/uHqbw
+Thread #5: >>147675249 → → (Cross-thread) → → → http://archive.is/Tn6O0
+Thread #6: >>147688425 → → (Cross-thread) → → → http://archive.is/ElDNj
+Thread #7: >>147698233 → → (Cross-thread) → → → http://archive.is/gC2AL
+Thread #8: >>147711453 → → (Cross-thread) → → → http://archive.is/eYVrm
+Thread #9: >>147713026 → → (Cross-thread) → → → http://archive.is/pSalw
+Thread #10: >>147718733 → → (Cross-thread) → → → http://archive.is/s3kLW
+Thread #11: >>147723497 → → (Cross-thread) → → → http://archive.is/rTBSR
+Thread #12: >>147729217 → → (Cross-thread) → → http://archive.is/aGaSD
+Thread #13: >>147733722 → → (Cross-thread) → → http://archive.is/Tn8yP
+Thread #14: >>147738057 → → (Cross-thread) --> --> http://archive.is/ffUMr
 >Updates
 Posted by Q in Thread #4 BEFORE THE TWITTER INCIDENT:
 "We are fully prepared that all social media will be shut down to prevent the spread of this information (i.e. POTUS' Twitter etc. and/or mass censoring).""
