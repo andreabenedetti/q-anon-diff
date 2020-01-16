@@ -1,9 +1,10 @@
 
-2017-11-02 17:02:14
+2017-11-02 18:34:06
 --------------------------------------------------
-Bread Crumbs info dump: >>147433975
-Thread #0: >>147505376
-Thread #1: >>147547939
-Thread #2: >>147591553
-Thread #3: >>147647514 (previous)
+Bread Crumbs info dump: >>147433975 http://archive.is/aaWPu
+Thread #0: >>147505376 http://archive.is/8NSuO
+Thread #1: >>147547939 http://archive.is/r2nKH
+Thread #2: >>147591553 http://archive.is/xOGn4
+Thread #3: >>147647514 http://archive.is/tXPM2
+Thread #4: >>147663862 (previous)
  -|
